@@ -3,7 +3,7 @@ import React from 'react'
 const Card = ({number,title,statement}) => {
     return (
         <>
-            <div className="card flex flex-col items-center gap-6 lg:w-[280px] md:w-[300px] w-full bg-pink px-6 pt-8 pb-10 border-t-4 border-green rounded-3xl">
+            <div className="card flex flex-col items-center gap-6 lg:w-[280px] md:w-[300px] w-full bg-pink px-6 pt-8 pb-10 border-t-4 border-green rounded-3xl shadow-boxShad">
                 <div className="number bg-lightGreen md:pt-3 pt-4 l w-[75px] h-[75px] md:w-[65px] md:h-[65px] text-center rounded-full  ">
                     <p className='font-dinBold text-white text-4xl'>
                        {number}
