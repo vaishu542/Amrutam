@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+:root {
+  --pink : #FFF7E2;
+  --green :#3A643B;
+  --light-green : #ECFEE7;
+}
+
+
+@font-face {
+  font-family: 'NexaLight';
+  src: url('/src/assets/fonts/NexaLight.ttf.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'D-DIN-PRO';
+  src: url('/src/assets/fonts/D-DIN-PRO-400-Regular.otf') format('opentype');
+}
+
+
+@font-face {
+  font-family: 'DINPro-Bold';
+  src: url('/src/assets/fonts/DINPro-Bold_13934.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'DIN-PRO-Medium';
+  src: url('/src/assets/fonts/DINPro-Medium_13936.ttf') format('truetype');
+}
+
+
+@font-face {
+  font-family: 'InknutAntiqua-Light';
+  src: url('/src/assets/fonts/InknutAntiqua-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'InknutAntiqua-Medium';
+  src: url('/src/assets/fonts/InknutAntiqua-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Nunito-VariableFont';
+  src: url('/src/assets/fonts/Nunito-VariableFont.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'DMSans-VariableFont';
+  src: url('/src/assets/fonts/DMSans-VariableFont.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Flamante-Roma-Medium';
+  src: url('/src/assets/fonts/Flamante-Roma-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter-VariableFont';
+  src: url('/src/assets/fonts/Inter-VariableFont.ttf') format('truetype');
+}
+
+.swiper-container {
+  padding-bottom: 50px !important; /* Space for the dots */
+}
+
+.swiper-pagination {
+  position: absolute;
+  bottom: 0 !important;
+  left: 50%;
+  transform: translateX(-50%); /* Centers the dots horizontally */
+  display: flex;
+  justify-content: center;
+}
+
+.swiper-pagination-bullet {
+  background-color: #C3C3C3 !important;
+  opacity: 1 !important;
+  width: 10px;
+  height: 10px;
+  margin: 0 5px; /* Spacing between bullets */
+  border-radius: 50%;
+  
+}
+
+.swiper-pagination-bullet-active {
+  background-color: var(--green) !important; /* Active bullet color */
+}
+
