@@ -1,8 +1,31 @@
-# React + Vite
+# 🌿 Amrutam  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository holds a mock website for **Amrutam**, an Ayurveda, wellness, and lifestyle brand.  
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Here are some screenshots of the website:
+
+![Screenshot 1](https://github.com/vaishu542/Amrutam/blob/main/src/assets/Screenshot%201.png)
+
+![Screenshot 2](https://github.com/vaishu542/Amrutam/blob/main/src/assets/Screenshot%20%202.png)
+
+*Screenshot of the homepage on desktop.*
+
+![Screenshot 3](https://github.com/vaishu542/Amrutam/blob/main/src/assets/Screenshot%203.png)
+![Screenshot 4](https://github.com/vaishu542/Amrutam/blob/main/src/assets/Screenshot%204.png)
+
+*Screenshot of the mobile view.*
+
+
+## ✨ Features of the Website  
+- 🌟 Showcases Amrutam’s vision and mantra of **"health is beauty"**.  
+- 📖 Highlights the brand's journey and offerings.  
+- 🖥️ Interactive and user-friendly interface for exploring wellness products and principles.  
+
+## 🛠️ Technologies Used  
+- ⚛️ **React.js**: For building the interactive user interface.  
+- 🎨 **Tailwind CSS**: For responsive and modern styling.  
+- 🛠️ Additional tools and libraries to enhance functionality and design.  
+
+
