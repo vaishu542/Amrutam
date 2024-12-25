@@ -1,7 +1,6 @@
 # 🌿 Amrutam  
 
-This repository holds a mock website for **Amrutam**, an Ayurveda, wellness, and lifestyle brand.  
-
+This repository holds a mock website for  [Amrutam](https://amrutam-a.netlify.app/) (click here for a quick vist) , an Ayurveda, wellness, and lifestyle brand. 
 ## Screenshots
 
 Here are some screenshots of the website:
